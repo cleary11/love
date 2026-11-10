@@ -436,7 +436,7 @@ h2 {
 <button class="soft secret" onclick="document.getElementById('secret2').classList.toggle('show')">ииии ещооо</button>
 <div class="secret-note" id="secret2">это не конец нашей истории, а лишь годовщина, и я хочу сказать, что люблю тебя очень сильно, и верю в тебя. верю в то, что ты справишься, и в целом мы справимся</div>
 </section>
-</main>
+
 <footer class="footer">11.11.25 — 11.11.26<br><span class="heart">♡</span> один год нашей истории <span class="heart">♡</span></footer>
 <script>
 // вопросы квеста
